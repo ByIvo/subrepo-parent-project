@@ -6,6 +6,6 @@
 [subrepo]
 	remote = https://github.com/ByIvo/subproject-2
 	branch = master
-	commit = b966945bb097327ae8cfbf4651a88dd2fcb3c277
-	parent = e30f7018716a58c2c4b97a76b41016208846c211
+	commit = 0bda212aa4d5c15cefa030113e05ad259f695739
+	parent = 8c814413039079ec65415244a76f279b325e3911
 	cmdver = 0.3.1
