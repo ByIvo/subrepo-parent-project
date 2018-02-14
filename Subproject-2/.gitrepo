@@ -7,5 +7,5 @@
 	remote = https://github.com/ByIvo/subproject-2
 	branch = master
 	commit = b966945bb097327ae8cfbf4651a88dd2fcb3c277
-	parent = add2b012f3592086397cd55d8bc19788daa78ad8
+	parent = bfa04553bb7eb39a58a5adeadbde6639deaf110b
 	cmdver = 0.3.1
